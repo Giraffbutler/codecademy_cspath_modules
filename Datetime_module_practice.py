@@ -20,3 +20,5 @@ parsed_date = datetime.strptime('Jan 15, 2018', '%b %d, %Y')
 #creating string from time value
 date_string = datetime.strftime(datetime.now(), '%b %d, %Y')
 print(date_string)
+
+#testing change to remote git repo w/ comment
